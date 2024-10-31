@@ -4,7 +4,10 @@
 ## Milton Österberg Wendel
 I am a student at NBI-Handelsakademin in Gothenburg, where I am studying object-oriented programming with AI skills.
 ### Courses
-
+[c#_basics]:https://github.com/MiltonOberg/Polisen
+[ai_1]: https://github.com/MiltonOberg/Python-Milton--sterberg-OPA23
+[ai_2]: https://github.com/MiltonOberg/Artificial_Intelligence2-Milton-OPA23
+[advanced_1]: https://github.com/MiltonOberg/Fullstack_data_milton_osterberg
 <table>
     <tr>
         <td>Introduction to Object-oriented programming</td>
@@ -13,7 +16,7 @@ I am a student at NBI-Handelsakademin in Gothenburg, where I am studying object-
     </tr>
     <tr>
         <td>Object-oriented programming basics</td>
-        <td></a href="https://github.com/MiltonOberg/Polisen">polisen</a></td>
+        <td><a href="https://github.com/MiltonOberg/Polisen">polisen</a></td>
         <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
     </tr>
     <tr>
@@ -30,17 +33,17 @@ I am a student at NBI-Handelsakademin in Gothenburg, where I am studying object-
     </tr>
     <tr>
         <td>Artificial intelligence 1</td>
-        <td></a href= https://github.com/MiltonOberg/Python-Milton--sterberg-OPA23>Python-Milton--sterberg-OPA23</a></td>
+        <td><a href= https://github.com/MiltonOberg/Python-Milton--sterberg-OPA23>Python-Milton--sterberg-OPA23</a></td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
         <td>Artificial intelligence 2</td>
-        <td></a href= https://github.com/MiltonOberg/Artificial_Intelligence2-Milton-OPA23>Artificial_Intelligence2-Milton-OPA23</a></td>
+        <td><a href= https://github.com/MiltonOberg/Artificial_Intelligence2-Milton-OPA23>Artificial_Intelligence2-Milton-OPA23</a></td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 1</td>
-        <td></a href= https://github.com/MiltonOberg/Fullstack_data_milton_osterberg>Fullstack_data_milton_osterberg</a></td>
+        <td><a href= https://github.com/MiltonOberg/Fullstack_data_milton_osterberg>Fullstack_data_milton_osterberg</a></td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
