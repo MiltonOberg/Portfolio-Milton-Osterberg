@@ -2,7 +2,12 @@
 
 
 ## Milton Österberg Wendel
-I am a student at NBI-Handelsakademin in Gothenburg, where I am studying object-oriented programming with AI skills.
+I am a student at NBI-Handelsakademin in Gothenburg, where I am studying Object-oriented programming with AI skills. 
+
+And now I'm excited to put my knowledge into practice!
+
+
+
 ### Courses
 [c#_basics]:https://github.com/MiltonOberg/Polisen
 [ai_1]: https://github.com/MiltonOberg/Python-Milton--sterberg-OPA23
@@ -80,10 +85,4 @@ I am a student at NBI-Handelsakademin in Gothenburg, where I am studying object-
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
-### Repositories
-<table>
-    <tr>
-    <td></td>
-    </tr>
-</table>
+### Roles I'm looking for
