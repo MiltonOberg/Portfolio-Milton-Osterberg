@@ -84,6 +84,30 @@ And now I'm excited to put my knowledge into practice!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<table>
+    <tr>
+        <td>Matplotlib</td>
+        <td>Pandas</td>
+        <td>Sklearn</td>
+        <td>Streamlit</td>
+        <td>Tensorflow</td>
+        <td>Keras</td>
+    </tr>
+    <tr>
+        <td>Machine learning</td>
+        <td>Deep learning</td>
+        <td>DuckDB</td>
+        <td>Agile Workflow</td>
+        <td>Git</td>
+        <td>GitHub</td>
+    </tr>
+    <tr>
+        <td>Plotly</td>
+        <td>Manim</td>
+        <td>Data Representation</td>
+        <td>Data Storytelling</td>
+    </tr>
+</table>
 
 ### Roles I'm looking for as a junior developer
  
@@ -126,7 +150,7 @@ And now I'm excited to put my knowledge into practice!
     </tbody>
 </table>
 
-
+### Contact me:
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/milton-%C3%B6sterberg-wendel-892759299/
