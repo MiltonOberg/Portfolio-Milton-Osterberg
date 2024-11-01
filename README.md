@@ -88,38 +88,45 @@ And now I'm excited to put my knowledge into practice!
 ### Roles I'm looking for as a junior developer
  
 <table>
-    <tr>
+    <thead>
         <th>Development Roles</th>
         <th>Data Science Roles</th>
         <th>Specialized Roles</th>
-    </tr>
-    <tr>
-        <td>Developer</td>
-        <td>Data Scientist</td>
-        <td>AI Developer</td>
-    </tr>
-    <tr>
-        <td>Python Developer</td>
-        <td>Machine Learning Engineer</td>
-        <td>Data Visualization Specialist</td>
-    </tr>
-    <tr>
-        <td>Full Stack Developer</td>
-        <td>Data Engineer</td>
-        <td>Research Scientist</td>
-    </tr>
-    <tr>
-        <td>Frontend Developer</td>
-        <td>Business Analyst</td>
-        <td>DevOps Engineer</td>
-    </tr>
-    <tr>
-        <td>Backend Developer</td>
-        <td>Quantitative Analyst</td>
-        <td>Software Engineer</td>
-    </tr>
-    <tr>
-        <td>DevOps Engineer</td>
-        <td>Data Analyst</td>
-    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Developer</td>
+            <td>Data Scientist</td>
+            <td>AI Developer</td>
+        </tr>
+        <tr>
+            <td>Python Developer</td>
+            <td>Machine Learning Engineer</td>
+            <td>Data Visualization Specialist</td>
+        </tr>
+        <tr>
+            <td>Full Stack Developer</td>
+            <td>Data Engineer</td>
+            <td>Research Scientist</td>
+        </tr>
+        <tr>
+            <td>Frontend Developer</td>
+            <td>Business Analyst</td>
+            <td>DevOps Engineer</td>
+        </tr>
+        <tr>
+            <td>Backend Developer</td>
+            <td>Quantitative Analyst</td>
+            <td>Software Engineer</td>
+        </tr>
+        <tr>
+            <td>DevOps Engineer</td>
+            <td>Data Analyst</td>
+        </tr>
+    </tbody>
 </table>
+
+
+- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/milton-%C3%B6sterberg-wendel-892759299/
