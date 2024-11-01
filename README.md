@@ -26,14 +26,14 @@ And now I'm excited to put my knowledge into practice!
     </tr>
     <tr>
         <td>Agile Project Management</td>
-        <td>kommer</td>
+        <td></td>
         <td><img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
     <tr>
         <td>Databases</td>
-        <td>kommer</td>
+        <td></td>
         <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
     <tr>
@@ -85,4 +85,37 @@ And now I'm excited to put my knowledge into practice!
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Roles I'm looking for
+### Roles I'm looking for as a junior developer
+ 
+<table>
+    <tr>
+        <th>Development Roles</th>
+        <th>Data Science Roles</th>
+        <th>Specialized Roles</th>
+    </tr>
+    <tr>
+        <td>Developer</td>
+        <td>Data Scientist</td>
+        <td>AI Developer</td>
+    </tr>
+    <tr>
+        <td>Python Developer</td>
+        <td>Machine Learning Engineer</td>
+        <td>Data Visualization Specialist</td>
+    </tr>
+    <tr>
+        <td>Full Stack Developer</td>
+        <td>Data Engineer</td>
+        <td>Research Scientist</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Business Analyst</td>
+        <td>DevOps Engineer</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Quantitative Analyst</td>
+        <td>Software Engineer</td>
+    </tr>
+</table>
