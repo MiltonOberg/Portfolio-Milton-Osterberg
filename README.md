@@ -58,7 +58,7 @@ And now I'm excited to put my knowledge into practice!
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
-        <td>Object-oriented programming advanced 1</td>
+        <td>Object-oriented programming advanced 2</td>
         <td></td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
