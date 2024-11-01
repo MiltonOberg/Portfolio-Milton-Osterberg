@@ -133,23 +133,19 @@ I've been mostly intrested in AI 1-2 and OOP. It is so much to learn in the subj
             <td>Data Visualization Specialist</td>
         </tr>
         <tr>
-            <td>Full Stack Developer</td>
+            <td>DevOps Engineer</td>
             <td>Data Engineer</td>
             <td>Research Scientist</td>
         </tr>
         <tr>
             <td>Frontend Developer</td>
             <td>Business Analyst</td>
-            <td>DevOps Engineer</td>
-        </tr>
-        <tr>
-            <td>Backend Developer</td>
-            <td>Quantitative Analyst</td>
             <td>Software Engineer</td>
         </tr>
         <tr>
-            <td>DevOps Engineer</td>
+            <td>Backend Developer</td>
             <td>Data Analyst</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
