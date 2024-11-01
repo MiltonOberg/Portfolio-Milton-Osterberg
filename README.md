@@ -109,13 +109,17 @@ And now I'm excited to put my knowledge into practice!
         <td>Research Scientist</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Frontend Developer</td>
         <td>Business Analyst</td>
         <td>DevOps Engineer</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Backend Developer</td>
         <td>Quantitative Analyst</td>
         <td>Software Engineer</td>
+    </tr>
+    <tr>
+        <td>DevOps Engineer</td>
+        <td>Data Analyst</td>
     </tr>
 </table>
