@@ -8,7 +8,7 @@ And now I'm excited to put my knowledge into practice!
 
 
 
-### Courses
+### Courses:
 
 <table>
     <thead>
@@ -76,10 +76,12 @@ And now I'm excited to put my knowledge into practice!
     </tr>
 </table>
 
-### Favourite subjects and courses
-I've been mostly intrested in AI 1-2 and OOP. It is so much to learn in the subjects and oddly satesfying when everything falls in to place and you get to see the results!
+### Favourite subjects and courses:
+I've been mostly intrested in AI 1-2 and OOP. 
+It is so much to learn in the subjects and oddly satesfying
+when everything falls in to place and you get to see the results!
 
-### Technical skills
+### Technical skills:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -113,7 +115,7 @@ I've been mostly intrested in AI 1-2 and OOP. It is so much to learn in the subj
     </tr>
 </table>
 
-### Roles I'm looking for as a junior developer
+### Roles I'm looking for as a junior developer:
  
 <table>
     <thead>
