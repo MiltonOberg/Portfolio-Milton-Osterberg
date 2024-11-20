@@ -30,13 +30,13 @@ And now I'm excited to put my knowledge into practice!
         <td>Agile Project Management</td>
         <td></td>
         <td><img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
     </tr>
     <tr>
         <td>Databases</td>
         <td></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        <img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white></td>
     </tr>
     <tr>
         <td>Artificial intelligence 1</td>
