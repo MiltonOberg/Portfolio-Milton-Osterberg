@@ -55,24 +55,25 @@ And now I'm excited to put my knowledge into practice!
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
     <tr>
-        <td>LIA 1 (ongoing)</td>
-        <td></td>
+        <td>LIA 1</td>
+        <td>I had my LIA at AIgineer where I worked in a team to start up a python library</td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 2</td>
-        <td></td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td><a href= https://github.com/MiltonOberg/Fullstack_data_milton_osterberg>Fullstack_data_milton_osterberg</a></td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
     <tr>
         <td>Thesis</td>
-        <td></td>
+        <td><a href= https://github.com/MiltonOberg/thesis</td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
-        <td>LIA 2</td>
-        <td></td>
-        <td></td>
+        <td>LIA 2 (Ongoing)</td>
+        <td>I am doing my LIA at AI Sweden</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
 </table>
 
@@ -112,6 +113,7 @@ when everything falls in to place and you get to see the results!
         <td>Manim</td>
         <td>Data Representation</td>
         <td>Data Storytelling</td>
+        <td>Graph Databases</td>
     </tr>
 </table>
 
