@@ -67,7 +67,7 @@ And now I'm excited to put my knowledge into practice!
     </tr>
     <tr>
         <td>Thesis</td>
-        <td><a href= https://github.com/MiltonOberg/thesis</td>
+        <td><a href= https://github.com/MiltonOberg/thesis>Reinforcement Learing, small game</a></td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
