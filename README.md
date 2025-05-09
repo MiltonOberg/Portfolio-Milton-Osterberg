@@ -72,15 +72,16 @@ And now I'm excited to put my knowledge into practice!
     </tr>
     <tr>
         <td>LIA 2 (Ongoing)</td>
-        <td>I am doing my LIA at AI Sweden</td>
+        <td>Second intership at AI Sweden</td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
 </table>
 
 ### Favourite subjects and courses:
-I've been mostly intrested in AI 1-2 and OOP. 
-It is so much to learn in the subjects and oddly satesfying
-when everything falls in to place and you get to see the results!
+I've been especially interested in AI courses, and I really enjoy working with data and exploring how it can be structured, analyzed, and used effectively.
+
+During my internship at AI Sweden, I worked in a team to develop an internal project management tool by integrating AI models and tying data together from multiple sources, making the creation of projects easier to manage.
+I've used a lot of new tools and it has been really rewarding to develop a program that actually could make the organisation's project management process easier.
 
 ### Technical skills:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -114,6 +115,7 @@ when everything falls in to place and you get to see the results!
         <td>Data Representation</td>
         <td>Data Storytelling</td>
         <td>Graph Databases</td>
+        <td>Neo4j</td>
     </tr>
 </table>
 
