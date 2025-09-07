@@ -71,7 +71,7 @@ And now I'm excited to put my knowledge into practice!
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
     <tr>
-        <td>LIA 2 (Ongoing)</td>
+        <td>LIA 2</td>
         <td>Second intership at AI Sweden</td>
         <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
     </tr>
