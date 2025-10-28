@@ -108,7 +108,7 @@ I got to use new tools and data structures. It was really rewarding to develop a
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-4CAF50?style=for-the-badge&logo=flask&logoColor=white)
 ![API](https://img.shields.io/badge/API-4CAF50?style=for-the-badge&logo=apachesuperset&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-FFC107?style=for-the-badge&logo=neo4j&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-009688?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-3670A0?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
