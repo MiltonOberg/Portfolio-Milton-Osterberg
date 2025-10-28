@@ -19,71 +19,71 @@ Now I'm excited to put my knowledge into practice!
     <tr>
         <td>Introduction to Object-oriented programming</td>
         <td></td>
-        <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
+        <td><img src="https://img.shields.io/badge/c%23-2E7D32?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
     </tr>
     <tr>
         <td>Object-oriented programming basics</td>
         <td><a href="https://github.com/MiltonOberg/Polisen">polisen</a></td>
-        <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
+        <td><img src="https://img.shields.io/badge/c%23-2E7D32?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
     </tr>
     <tr>
         <td>Agile Project Management</td>
         <td></td>
-        <td><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
+        <td><img alt="C#" src="https://img.shields.io/badge/c%23-2E7D32?style=for-the-badge&logo=csharp&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FF9800?style=for-the-badge&logo=html5&logoColor=white"></td>
     </tr>
     <tr>
         <td>Databases</td>
         <td></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
-        <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/sql-FF5722?style=for-the-badge&logo=sql&logoColor=white">
+        <img alt="C#" src="https://img.shields.io/badge/c%23-2E7D32?style=for-the-badge&logo=csharp&logoColor=white"></td>
     </tr>
     <tr>
         <td>Artificial intelligence 1</td>
         <td><a href= https://github.com/MiltonOberg/Python-Milton--sterberg-OPA23>Python-Milton--sterberg-OPA23</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
     <tr>
         <td>Artificial intelligence 2</td>
         <td><a href= https://github.com/MiltonOberg/Artificial_Intelligence2-Milton-OPA23>Artificial_Intelligence2-Milton-OPA23</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 1</td>
         <td><a href= https://github.com/MiltonOberg/Fullstack_data_milton_osterberg>Fullstack_data_milton_osterberg</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/sql-FF5722?style=for-the-badge&logo=sql&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css-9C27B0?style=for-the-badge&logo=css3&logoColor=white"></td>
     </tr>
     <tr>
         <td>LIA 1</td>
         <td>I had my LIA at AIgineer where I worked in a team to start up a python library</td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 2</td>
         <td><a href= https://github.com/MiltonOberg/Fullstack_data_milton_osterberg>Fullstack_data_milton_osterberg</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/sql-FF5722?style=for-the-badge&logo=sql&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css-9C27B0?style=for-the-badge&logo=css3&logoColor=white">
         </td>
     </tr>
     <tr>
         <td>Thesis</td>
         <td><a href= https://github.com/MiltonOberg/thesis>Reinforcement Learing, small game</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
     <tr>
         <td>LIA 2</td>
         <td>Second intership at AI Sweden</td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
     </tr>
     <tr>
         <td>Fun project</td>
         <td> <a href= https://github.com/MiltonOberg/Market>AI Market</a></td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css-9C27B0?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FF9800?style=for-the-badge&logo=html5&logoColor=white"></td>
     </tr>
 </table>
 
@@ -106,9 +106,9 @@ I got to use new tools and data structures. It was really rewarding to develop a
 ![HTML](https://img.shields.io/badge/HTML-3670A0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-4CAF50?style=for-the-badge&logo=flask&logoColor=white)
-![API](https://img.shields.io/badge/API-4CAF50?style=for-the-badge&logo=apachesuperset&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-009688?style=for-the-badge&logo=neo4j&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-2E7D32?style=for-the-badge&logo=flask&logoColor=white)
+![API](https://img.shields.io/badge/API-2E7D32?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-FF9800?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-3670A0?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
