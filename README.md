@@ -2,9 +2,9 @@
 
 
 ## Milton Österberg Wendel
-I was a student at NBI-Handelsakademin in Gothenburg, where I was studying Object-oriented programming with focus on AI.
+I was a student at NBI-Handelsakademin in Gothenburg, where I was studying Object-oriented programming with a focus on AI.
 
-And now I'm excited to put my knowledge into practice!
+Now I'm excited to put my knowledge into practice!
 
 
 
