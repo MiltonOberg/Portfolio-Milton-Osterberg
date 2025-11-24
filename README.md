@@ -81,7 +81,8 @@ I studied Object-oriented programming with a focus on AI at NBI-Handelsakademin 
         <td> <a href= https://github.com/MiltonOberg/Market>AI Market</a></td>
         <td><img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css-9C27B0?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FF9800?style=for-the-badge&logo=html5&logoColor=white"></td>
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-FF9800?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt= "Static Badge" src="https://img.shields.io/badge/javascript-FF5722?style=for-the-badge&logo=javascript&logoColor=white"></td>
     </tr>
 </table>
 
